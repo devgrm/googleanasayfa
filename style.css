@@ -1,0 +1,135 @@
+body{
+  margin: 0;
+  padding: 0;
+}
+
+.logo-container{
+  width: 100%;
+  margin-top: 10px;
+}
+
+.logo-container img{
+  display: block;
+  width: 351px;
+  height: 113px;
+  margin: 0 auto;
+}
+
+
+#search-bar{
+  display: block;
+  width: 1133px;
+  height: 62px;
+  margin: 0 auto;
+  background-color: #EEEEEE;
+}
+
+input[type=text] {
+  width: 293px;
+  height: 21px;
+  box-sizing: border-box;
+}
+
+input[type=text], label {
+  display: block;
+  margin: 0 auto 0;
+  text-align: center;
+}
+
+.button-holder{
+  text-align: center;
+}
+
+
+
+
+.footer-wrapper{
+  width: 1133px;
+  height: 75px;
+  margin: 2px auto;
+}
+
+.box1{
+  background-color: #7EE6DA;
+  width:417px;
+  height: 75px;
+  float: left;
+  text-align: center;
+
+}
+
+.box1>p {
+  margin-top: 10px;
+  margin-bottom: 0px;
+
+} 
+
+
+.box1>a{
+  margin-top: 0px;
+} 
+
+
+.box2{
+  background-color: #70CCC3;
+  width:243px;
+  height: 75px;
+  margin: 0 2px 0 2px;
+  float: left;
+  text-align: center;
+
+
+}
+
+.box2>a{
+  font-size: 12px;
+}
+
+
+
+.box3{
+  background-color: #62B3AB;
+  width:469px;
+  height: 75px;
+  float: left;
+}
+
+.box3>p{ 
+  text-align: center;
+  font-size: 13px;
+  margin: 0 !important;    
+  padding: 0px;
+  
+}
+
+.box3 [type=text]{ 
+  width: 153px;
+  height: 21px;
+  box-sizing: border-box;
+}
+
+.box3>form{ 
+  text-align: center;
+}
+
+.box3 [type=text]{
+  text-align: left;
+
+}
+
+.box3 [type=submit]{
+  display:inline-block;
+
+}
+
+.box3 a{
+  font-size: 13px;
+
+}    
+
+
+#copyright{
+  font-size: 13px;
+  text-align: center;  
+  margin-top: 16px;
+}
